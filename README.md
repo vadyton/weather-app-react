@@ -1,1 +1,1 @@
-# whether-app-react
+# weather-app-react
